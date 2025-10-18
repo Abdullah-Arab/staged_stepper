@@ -1,9 +1,9 @@
 name: staged_stepper
 description: A staged, animated stepper with timed steps and connecting bars.
 version: 0.1.0
-homepage: https://github.com/<you>/staged_stepper
-repository: https://github.com/<you>/staged_stepper
-issue_tracker: https://github.com/<you>/staged_stepper/issues
+homepage: https://github.com/Abdullah-Arab/staged_stepper
+repository: https://github.com/Abdullah-Arab/staged_stepper
+issue_tracker: https://github.com/Abdullah-Arab/staged_stepper/issues
 topics:
   - animation
   - stepper
